@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practice App</string>
+
+    <string name="app_1">BMI Calculator</string>
+    <string name="bmi">Calculate</string>
+    <string name="height">Enter Height in meter </string>
+    <string name="weight">Enter weight in kg</string>
+    <string name="result">Result</string>
+    <string name="value">Value</string>
+
+    <string name="app_2">Music Service</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="app_3">Database Example</string>
+
+    <string name="app_4">Fragment Example</string>
+    <string name="news_fragment">News Fragment</string>
+    <string name="sport_fragment">Sports Fragment</string>
+    <string name="science_fragment">Science Fragment</string>
+</resources>
